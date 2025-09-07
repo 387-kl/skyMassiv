@@ -36,7 +36,7 @@ public class Main {
                 System.out.println(arr[index]);
                 break;
             }
-            System.out.println("+");
+            System.out.println("");
         }
     }
 }
